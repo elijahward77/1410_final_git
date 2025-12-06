@@ -1,11 +1,8 @@
-# just a comment to test how to change and save changes to a file in a repository
-# more changes to the file
+# Practicing actually changing files properly with a branch and then merging it with main after pushing it.
 import tkinter as tk
 from abc import ABC, abstractmethod
 from tkinter import messagebox
 from datetime import datetime
-
-#2 test, the first commit was committed and uploaded entirly in vs code
 
 
 
